@@ -4,7 +4,7 @@
 
 rm(list = ls()) # Clear environment
 
-setwd(" --- Insert the directory where all scripts are contained here --- ")
+setwd(" --- Insert the directory where all scripts and datasets are contained here --- ")
 
 library(tidyverse) # Check if packages are installed on your device (see ?installed.packages)
 library(matrixStats)
